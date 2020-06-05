@@ -1,0 +1,2 @@
+# Triangulo
+Exercício de condicional
